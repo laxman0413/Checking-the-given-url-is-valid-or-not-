@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# A react Application which checks weather the given url is valid or not
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was create on the main concept of regx using react js.This was my First Project
 
 ## Available Scripts
 
