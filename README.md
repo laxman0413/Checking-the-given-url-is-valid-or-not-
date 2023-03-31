@@ -1,4 +1,4 @@
-# A react Application which checks weather the given url is valid or not
+# A react Application which checks whether the given url is valid or not
 
 This project was create on the main concept of regx using react js.This was my First Project
 
